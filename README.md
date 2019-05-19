@@ -1,4 +1,5 @@
 # Intro To Web Dev Slides
+
 Slide deck for intro to HTML5, CSS3, and javascript
 
 ## HTML5
@@ -38,4 +39,32 @@ Slide deck for intro to HTML5, CSS3, and javascript
       1. show simple ugly style
       2. show professional styling of same page! wow!
       3. maybe show css zen garden? or at least discuss the idea
-   2. 
+3. Some basics
+   1. inline vs block elements
+   2. selectors
+   3. writing stylesheets
+   4. mention advanced techniques like sass and less
+4. Coloring
+   1. color
+   2. background-color
+   3. border-color
+5. Visual helpers
+   1. borders
+   2. shadows
+6. Fonts
+   1. family
+   2. weight
+   3. size
+7. Units of measurement in CSS
+   1. why have different ways to measure?
+   2. units of measure
+      1. px
+      2. em
+      3. percent
+      4. in, vw and others
+8. Layout
+   1. Floats
+   2. Flexbox
+   3. Grid
+9. Shapes
+   1. show a few examples of what is possible
