@@ -68,3 +68,14 @@ Slide deck for intro to HTML5, CSS3, and javascript
    3. Grid
 9. Shapes
    1. show a few examples of what is possible
+
+## Javascript
+
+1. what is javascript?
+   1. how is it related to Java? IT'S NOT! weird
+   2. why was it created?
+2. Dynamic HTML
+   1. differences from CSS
+   2. creating elements
+   3. manipulating elements
+3.
