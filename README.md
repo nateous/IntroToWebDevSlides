@@ -2,32 +2,7 @@
 
 Slide deck for intro to HTML5, CSS3, and javascript
 
-## HTML5
-
-1. What is HTML?
-   1. explain what HTML stands for
-   2. why was it needed?
-2. Basic document format
-   1. show minimal doc (e.g. auto template in vs code)
-   2. show some basic tags (e.g. title/header/article)
-   3. show example article page
-3. Which tag should I use?
-   1. HTML is meant to be semantic
-   2. Use the tags as simply as you can to convey information
-   3. show some simple examples of semantic markup
-4. Let's build an article page!
-   1. create a lab exercise and have everyone create an article page
-   2. give some sample tags they may want to use
-   3. leave on screen a list of tags they may want to use
-   4. walk around and help everyone (or demo from the projector?)
-5. Information Hierarchy
-   1. HTML5 is just a way to convey information
-   2. Audience (humans, computers, both!)
-6. Presentation
-   1. Review the demo created for building an article page above
-   2. Discuss what it looks like
-   3. How can we make it better?
-   4. There aren't many options in HTML for presentation (and shouldn't be!)
+## TODO
 
 ## CSS3
 
@@ -78,4 +53,28 @@ Slide deck for intro to HTML5, CSS3, and javascript
    1. differences from CSS
    2. creating elements
    3. manipulating elements
-3.
+3. Events
+   1. mouse events
+   2. keyboard events
+   3. show event list
+4. APIs
+   1. network api
+5. Truthy and Falsy
+6. Operators
+7. Branching
+8. Conditionals
+
+## Software used
+
+1. Lubuntu 18.04.2 LTS
+2. VS Code
+3. Git
+4. Google Chrome
+   1. Step by step how to install google chrome on lubuntu 18.04
+   2. make sure the 'Canonical Partners' is checked in Software & Updates > Other Software > Canonical Partners.
+   3. open command line (press CTRL + ALT + T)
+   4. run update command: `sudo apt-get update`
+   5. install fonts-liberation package: `sudo apt-get install fonts-liberation`
+   6. download chrome from google chrome website, choose 64 bit debian package
+   7. you can open directly with GDebi Package Installer or you can save the file and then install using dpkg command like this: `sudo dpkg -i ~/Downloads/google-chrome-stable_current_amd64.deb`
+   8. done!
