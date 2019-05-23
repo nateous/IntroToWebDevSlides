@@ -28,6 +28,16 @@ Slide deck for intro to HTML5, CSS3, and javascript
 
 1. Lubuntu 18.04.2 LTS
 2. VS Code
+   1. Extensions
+      1. Prettier
+      2. C#
+      3. VSCode Icons
+      4. Debugger for Chrome
+      5. ESLint
+      6. GitLens
+      7. IntelliSense for CSS class names in HTML
+      8. JavaScript (ES6) code snippets
+      9. too many to list!
 3. Git
 4. Google Chrome
    1. Step by step how to install google chrome on lubuntu 18.04
