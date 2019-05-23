@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Your Website</title>
+    <style>
+      body > header {
+        display: flex;
+      }
+      nav {
+        border: 1px solid #000;
+        border-radius: 10px;
+        box-shadow: #000 3px 3px 5px;
+      }
+      nav ul {
+        margin: 1ex 1em;
+        padding: 0;
+        list-style-type: none;
+      }
+      article {
+        margin: 1em;
+        padding: 1em;
+        position: relative;
+        background-color: #eee;
+      }
+      article:nth-child(even) {
+        background-color: #fee;
+      }
+      article h2 {
+        float: left;
+        margin: 0 0 1ex;
+        border-bottom: 3px solid green;
+      }
+      article:nth-child(even) h2 {
+        border-bottom-color: purple;
+      }
+      article header p {
+        margin: 0;
+        padding: 0;
+        font-size: 50%;
+        color: #333;
+        position: absolute;
+        top: 1em;
+        right: 1em;
+      }
+      article p {
+        clear: both;
+      }
+      aside {
+        color: #666;
+        text-align: right;
+        font-size: 75%;
+        display: none;
+      }
+      footer {
+        text-align: center;
+        font-size: 60%;
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li>Your menu</li>
+        </ul>
+      </nav>
+    </header>
+
+    <section>
+      <article>
+        <header>
+          <h2>Article title</h2>
+          <p>
+            Posted on
+            <time datetime="2009-09-04T16:31:24+02:00">September 4th 2009</time>
+            by <a href="#">Writer</a> - <a href="#comments">6 comments</a>
+          </p>
+        </header>
+        <p>
+          Pellentesque habitant morbi tristique senectus et netus et malesuada
+          fames ac turpis egestas.
+        </p>
+      </article>
+
+      <article>
+        <header>
+          <h2>Article title</h2>
+          <p>
+            Posted on
+            <time datetime="2009-09-04T16:31:24+02:00">September 4th 2009</time>
+            by <a href="#">Writer</a> - <a href="#comments">6 comments</a>
+          </p>
+        </header>
+        <p>
+          Pellentesque habitant morbi tristique senectus et netus et malesuada
+          fames ac turpis egestas.
+        </p>
+      </article>
+    </section>
+
+    <aside>
+      <h2>About section</h2>
+      <p>
+        Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae
+        est. Mauris placerat eleifend leo.
+      </p>
+    </aside>
+
+    <footer>
+      <p>Copyright 2009 Your name</p>
+    </footer>
+  </body>
+</html>
