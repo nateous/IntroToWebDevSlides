@@ -53,3 +53,5 @@ Slide deck for intro to HTML5, CSS3, and javascript
 
 1. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 2. http://www.csszengarden.com/
+3. https://specifishity.com/
+4. https://specificity.keegan.st/
