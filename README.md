@@ -55,3 +55,4 @@ Slide deck for intro to HTML5, CSS3, and javascript
 2. http://www.csszengarden.com/
 3. https://specifishity.com/
 4. https://specificity.keegan.st/
+5. https://www.git-scm.com/book/en/v2/Getting-Started-About-Version-Control
